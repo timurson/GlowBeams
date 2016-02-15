@@ -1,7 +1,7 @@
 # GlowBeams
 Charge-up glowing beams effect for Unity 4.x
 
-![Alt Text](https://github.com/timurson/GlowBeams/blob/master/GlowBeams.PNG)
+![Alt Text](https://github.com/timurson/GlowBeams/blob/master/GlowBeams.PNG {width=650px height=375px})
 
 # License
 Copyright (C) 2016 Roman Timurson
